@@ -94,7 +94,7 @@ https://platform.openai.com/docs/tutorials
 
 [Introduction to "Deep" Search](https://docs.google.com/presentation/d/1Wkprk_U3nMb-801gbq4Trx23VfvkYupYr43C4mrdlCM/edit?usp=sharing)  (Google Presentation)
 
-[Lab - Search Applications](labs/Data%20Handling%20of%20Graphs.ipynb) 
+[Lab 1 - Awesome Search](https://docs.google.com/document/d/1U5bncs0CPutVTKW0ZhjM6loCTbythBI0M2KaSoVBGfk/edit?usp=sharing)
 
 Reading: 
 
