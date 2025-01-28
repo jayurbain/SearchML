@@ -106,13 +106,25 @@ Introduction to Information Retrieval. Ch. 1, 2, 6 & 8.
 
 ### Week 2: Introduction to Language Models
 
-Introduction to Language Models  (Google Presentation)
+[Introduction to Language Models](https://docs.google.com/presentation/d/1WRJr3aPW-KrB1Wu0CP6H2a8AyKcHtlPuDCch-CgnP7M/edit?usp=sharing)
 
 Large Language Model Applications  (Google Presentation)
 
-Lab
+[Lab 2 - Language Models](labs/language_model.ipynb)
 
 Reading: 
+
+[Attention Is All You Need Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. 2018](https://arxiv.org/abs/1810.04805)
+
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova](https://arxiv.org/abs/1810.04805)
+
+Improving Language Understanding by Generative Pre-Training
+
+OpenAI, “Gpt-4 technical report.” arXiv preprint arXiv:2303.08774 (2023). https://arxiv.org/abs/2303.08774
+
+[DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/)   
+
 
 References:  
 [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g), Andrej Karpathy
