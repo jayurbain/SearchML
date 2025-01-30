@@ -108,7 +108,7 @@ Introduction to Information Retrieval. Ch. 1, 2, 6 & 8.
 
 [Introduction to Language Models](https://docs.google.com/presentation/d/1WRJr3aPW-KrB1Wu0CP6H2a8AyKcHtlPuDCch-CgnP7M/edit?usp=sharing)
 
-Transformer Model Intro  (https://docs.google.com/presentation/d/1wW1IOWntxAjwB1lYtQh_IVGYtUa4LiglbRUvrce3YhU/edit?usp=sharing)
+[Transformer Model Intro](https://docs.google.com/presentation/d/1wW1IOWntxAjwB1lYtQh_IVGYtUa4LiglbRUvrce3YhU/edit?usp=sharing)
 
 [Lab 2 - Language Models](labs/language_model.ipynb)
 
