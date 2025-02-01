@@ -114,12 +114,12 @@ Introduction to Information Retrieval. Ch. 1, 2, 6 & 8.
 
 Reading: 
 
-[Attention Is All You Need Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. 2018](https://arxiv.org/abs/1810.04805)
+[Attention Is All You Need Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. 2018](https://arxiv.org/abs/1706.03762)
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova](https://arxiv.org/abs/1810.04805)
 
-Improving Language Understanding by Generative Pre-Training
+[Improving Language Understanding by Generative Pre-Training](https://gwern.net/doc/www/s3-us-west-2.amazonaws.com/d73fdc5ffa8627bce44dcda2fc012da638ffb158.pdf)
 
 OpenAI, “Gpt-4 technical report.” arXiv preprint arXiv:2303.08774 (2023). https://arxiv.org/abs/2303.08774
 
