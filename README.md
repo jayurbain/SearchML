@@ -131,15 +131,22 @@ References:
 
 ---
 
-### Week 2: Tokens and Embeddings
+### Week 3: Transformer
 
-Tokens and Embeddings  (Google Presentation)
+[Transformer Model](https://docs.google.com/presentation/d/1wW1IOWntxAjwB1lYtQh_IVGYtUa4LiglbRUvrce3YhU/edit?usp=sharing)
 
-Embeddings for Applications - Recommendation Systems  (https://docs.google.com/presentation/d/1wW1IOWntxAjwB1lYtQh_IVGYtUa4LiglbRUvrce3YhU/edit?usp=sharing)
+[Lab 3 - Embeddings](labs/embeddings.ipynb)
 
-Lab
+Dense Retrieval
 
-Reading: 
+Lab 4 - Dense Retrieval
+
+Reading:
+
+[Attention Is All You Need Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. 2018](https://arxiv.org/abs/1706.03762)
+
+[Improving Language Understanding by Generative Pre-Training](https://gwern.net/doc/www/s3-us-west-2.amazonaws.com/d73fdc5ffa8627bce44dcda2fc012da638ffb158.pdf)
+
 
 References:  
 
