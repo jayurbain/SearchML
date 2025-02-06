@@ -131,15 +131,16 @@ References:
 
 ---
 
-### Week 3: Transformer
+### Week 3: Transformer, Using Pretrained LLMs
 
 [Transformer Model](https://docs.google.com/presentation/d/1wW1IOWntxAjwB1lYtQh_IVGYtUa4LiglbRUvrce3YhU/edit?usp=sharing)
 
 [Lab 3 - Embeddings](labs/embeddings.ipynb)
 
-Dense Retrieval
+[Pretrained LLMs for Text Classification](https://docs.google.com/presentation/d/18t2Tk7ywAp1Zpk70sUpI-KqB1QiBs4hSHZibS-OkZL4/edit?usp=sharing)
 
-Lab 4 - Dense Retrieval
+Required Viewing:
+[Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g), Andrej Karpathy.
 
 Reading:
 
@@ -152,11 +153,8 @@ References:
 
 ---
 
-### Week 3: Transformer
+### Week 4: Dense Retrieval
 
-Transformer  (Google Presentation)
-
-Recent Improvements in the Transformer Architecture  (Google Presentation)
 
 Lab
 
@@ -166,11 +164,7 @@ References:
 
 ---
 
-### Week 4: Using Pretrained Language Models
-
-Text Classification  (Google Presentation)
-
-Text Clustering and Topic Modeling  (Google Presentation)
+### Week 5: Hybrid Search
 
 Lab
 
@@ -180,7 +174,7 @@ References:
 
 ---
 
-### Week 5: Prompt Engineering
+### Week 6: Prompt Engineering
 
 Intro to Prompt Engineering  (Google Presentation)
 
@@ -194,7 +188,7 @@ References:
 
 ---
 
-### Week 6: Semantic Search and Retrieval Augmented Generation
+### Week 7: Semantic Search and Retrieval Augmented Generation
 
 Semantic Search  (Google Presentation)
 
