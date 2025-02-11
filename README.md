@@ -153,10 +153,11 @@ References:
 
 ---
 
-### Week 4: Dense Retrieval
+### Week 4: Retrieval Augmented Generation 
 
+[RAG](https://docs.google.com/presentation/d/1jeRlp1Rs4DiqJzgD0iAoSmNi8PBMQgC-_g55raUWLi8/edit?usp=sharing)
 
-Lab
+[Lab 4 - RAG](labs/lab_4_RAG.ipynb)
 
 Reading: 
 
