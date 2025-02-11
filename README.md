@@ -159,9 +159,8 @@ References:
 
 [Lab 4 - RAG](labs/lab_4_RAG.ipynb)
 
-Reading: 
-
-References:  
+Reading:   
+[Databrick Guide to LLMs](references/compact-guide-to-large-language-models.pdf)
 
 ---
 
