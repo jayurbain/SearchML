@@ -159,12 +159,15 @@ References:
 
 [Lab 4 - RAG](labs/lab_4_RAG.ipynb)
 
+[Fine Tuning](https://docs.google.com/presentation/d/1kXCwsgEKVP1HpNnWwH0qvShAzPaeBrEf0HOwBwf-wTw/edit?usp=sharing)
+
 Reading:   
 [Databrick Guide to LLMs](references/compact-guide-to-large-language-models.pdf)
 
 ---
 
 ### Week 5: Hybrid Search
+
 
 Lab
 
