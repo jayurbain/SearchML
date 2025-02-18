@@ -153,7 +153,7 @@ References:
 
 ---
 
-### Week 4: Retrieval Augmented Generation 
+### Week 4: Retrieval Augmented Generation, Fine Tuning
 
 [RAG](https://docs.google.com/presentation/d/1jeRlp1Rs4DiqJzgD0iAoSmNi8PBMQgC-_g55raUWLi8/edit?usp=sharing)
 
@@ -166,10 +166,15 @@ Reading:
 
 ---
 
-### Week 5: Hybrid Search
+### Week 5: Fine Tuning, Hybrid Search
 
+[Fine Tuning](https://docs.google.com/presentation/d/1kXCwsgEKVP1HpNnWwH0qvShAzPaeBrEf0HOwBwf-wTw/edit?usp=sharing)
 
-Lab
+[Lab 5: Fine-tuning-QLoRA](https://colab.research.google.com/drive/1MCEZALkIBfpAwpB2qeXLMjbKgp4fWziR?usp=sharing)
+
+[Lab 6: RAG Search (2-weeks)](https://docs.google.com/document/d/1L3HWRjvcHH5ktssk66YgmTgHNj7QVBoZOqVaQbCBL9s/edit?usp=sharing)
+
+Hybrid Search
 
 Reading: 
 
@@ -177,13 +182,14 @@ References:
 
 ---
 
-### Week 6: Prompt Engineering
+### Week 6: Quiz, Reasoning with Generative Models
 
-Intro to Prompt Engineering  (Google Presentation)
+[Quiz 1](https://docs.google.com/document/d/1uHQHKn8ITFDoj8bi89mCap_HN_vJkt0UZDDJ704DV6Y/edit?usp=sharing)
+
 
 Reasoning with Generative Models  (Google Presentation)
 
-Lab
+Lab: RAG Lab Continued
 
 Reading: 
 
@@ -191,13 +197,11 @@ References:
 
 ---
 
-### Week 7: Semantic Search and Retrieval Augmented Generation
+### Week 7: RAG
 
-Semantic Search  (Google Presentation)
+RAG Lab Presentations
 
-Retrieval Augmented Generation (RAG)  (Google Presentation)
-
-Lab
+Catchup or more on Prompt Engineering
 
 Reading: 
 
@@ -205,63 +209,7 @@ References:
 
 ---
 
-### Week 7: Midterm Quiz 1, Lab/ Research Work
-
----
-
-### Week 8: Training and Fine-Tuning Language Models
-
-Creating Text Embedding Models  (Google Presentation)
-
-Fine Tuning Generation Models  (Google Presentation)
-
-Lab
-
-Reading: 
-
-References:
-
----
-
-### Week 9: Training and Fine-Tuning Language Models
-
-Evaluating Generative Models  (Google Presentation)
-
-Preference Tuning - RLHF, DPO  (Google Presentation)
-
-Lab
-
-Reading: 
-
-References:
-
----
-
-### Week 10: Multi-modal and Hybrid Retrieval
-
-Multi-modal Retrieval  (Google Presentation)
-
-Hybrid Search  (Google Presentation)
-
-Lab
-
-Reading: 
-
-References:
-
----
-
-### Week 11: Quiz 2, Lab/research work
-
-Lab
-
-Reading: 
-
-References:
-
----
-
-### Week 12: Graph Machine Learning
+### Week 8: Graph Machine Learning
  
 [1. Graph Machine Learning and Motivations](slides/1.%20Graph%20Machine%20Learning%20and%20Motivations.pdf)
  
@@ -285,7 +233,7 @@ https://arxiv.org/pdf/1211.0053.pdf)
 [Authoritative Sources in a Hyperlinked Environment](https://www.cs.cornell.edu/home/kleinber/auth.pdf)    
 ---
 
-### Week 12: Graph Neural Networks
+### Week 9: Graph Neural Networks
 
 [8. Graph Neural Networks](slides/8.%20Graph%20Neural%20Networks.pdf)
 
@@ -301,7 +249,7 @@ https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
 
 ---
 
-### Week 13: Deep Generative Graph Models, Knowledge Graphs, RAG Knowledge Graphs
+### Week 10: Deep Generative Graph Models
 
 Workshop 5 - Deep Generative Graph Models,  illustrative notebook   
 [14. Learning Deep Generative Models of Graphs.pdf](slides/14.%20Learning%20Deep%20Generative%20Models%20of%20Graphs.pdf)   
@@ -321,9 +269,13 @@ https://arxiv.org/abs/1802.08773
 https://arxiv.org/pdf/1803.03324.pdf   
 - [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
-### Week 14: Project Work
+### Week 11: Knowledge Graphs, RAG Knowledge Graphs
 
-### Week 15: Project Work
+### Week 12: Temporal Search
+
+### Week 13: Project Work
+
+### Week 14: Project Work
 
 ### Week 15: Final Projects Presentations
 
