@@ -174,18 +174,15 @@ Reading:
 
 [Lab 6: RAG Search (2-weeks)](https://docs.google.com/document/d/1L3HWRjvcHH5ktssk66YgmTgHNj7QVBoZOqVaQbCBL9s/edit?usp=sharing)
 
-Hybrid Search
+[Hybrid Search](https://docs.google.com/presentation/d/1irn32NDVZRn4iOEQcRYwFPYI5V2_QE2THxpNXaIvUp4/edit?usp=sharing)
 
-Reading: 
-
-References:
+[Hybrid Search Demo Notebook](labs/hyrbrid_search_pinecone.ipynb)
 
 ---
 
 ### Week 6: Quiz, Reasoning with Generative Models
 
 [Quiz 1](https://docs.google.com/document/d/1uHQHKn8ITFDoj8bi89mCap_HN_vJkt0UZDDJ704DV6Y/edit?usp=sharing)
-
 
 Reasoning with Generative Models  (Google Presentation)
 
