@@ -180,69 +180,63 @@ Reading:
 
 ---
 
-### Week 6: Quiz, Reasoning with Generative Models
+### Week 6: Quiz, Graph Machine Learning Intro
 
 [Quiz 1](https://docs.google.com/document/d/1uHQHKn8ITFDoj8bi89mCap_HN_vJkt0UZDDJ704DV6Y/edit?usp=sharing)
 
-Reasoning with Generative Models  (Google Presentation)
-
 Lab: RAG Lab Continued
 
-Reading: 
+[Graph Machine Learning](https://docs.google.com/presentation/d/10PEVzMoWOZgEbQNruZDYYHaviVK_33z5ZEAKlRr5O84/edit?usp=sharing)
 
-References:
+[Graph Representations](https://docs.google.com/presentation/d/1VQCcRT64oOcflhjqFmsefhQQIx3mi59Sa7rFMVYFxOg/edit?usp=sharing)
 
----
+[Data Handling of Graphs](labs/Data Handling of Graphs.ipynb)
 
-### Week 7: RAG
-
-RAG Lab Presentations
-
-Catchup or more on Prompt Engineering
-
-Reading: 
-
-References:
+References:  
+See graph references above.
 
 ---
 
-### Week 8: Graph Machine Learning
- 
-[1. Graph Machine Learning and Motivations](slides/1.%20Graph%20Machine%20Learning%20and%20Motivations.pdf)
- 
-[2. Graph Representations](slides/2.%20Graph%20Representations.pdf)
+### Week 7: Link Analysis
 
-[Lab 0. Data Handling of Graphs](labs/Data%20Handling%20of%20Graphs.ipynb) 
+[Link Analysis](https://docs.google.com/presentation/d/14Kfi4hHJnjHTrreEo8UoiEsssFQi6w6WskxjwJNvzq8/edit?usp=sharing)
 
-[3. Link Analysis](slides/3.%20Link%20Analysis.pdf)
+[Lab Link Analysis](labs/Lab%202.%20Link%20Analysis.pdf)
 
-References:
+[Lab Page Rank Notebook](PageRank.ipynb) 
 
-[Graph Representation Learning by William L. Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
-[TUDataset: A collection of benchmark datasets for learning with graphs](http://graphkernels.cs.tu-dortmund.de/)
+Reading:
 
-[The Emerging Field of Signal Processing on Graphs](
-https://arxiv.org/pdf/1211.0053.pdf)
+The Anatomy of a Large-Scale Hypertextual Web Search Engine
 
-[The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html)    
+Authoritative Sources in a Hyperlinked Environment
 
-[Authoritative Sources in a Hyperlinked Environment](https://www.cs.cornell.edu/home/kleinber/auth.pdf)    
 ---
 
-### Week 9: Graph Neural Networks
+### Week 8:  Node Classification, Intro to Graph Neural Networks
 
-[8. Graph Neural Networks](slides/8.%20Graph%20Neural%20Networks.pdf)
+Message Passing, Node Embeddings, and Representations
 
-[Lab 3: Hands-on GCN](labs/lab3_handson_gcn.ipynb), [Solution](workshop_solutions/lab3_handson_gcn_solution.ipynb)    
-[Lab 3: Node Classification](labs/lab3_node_class.ipynb), [Solution](workshop_solutions/lab3_handson_gcn_solution.ipynb)     
-[Lab 5. Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb), [Solution](workshop_solutions/lab_5_graphneuralnets_esol_solution.ipynb)   
+Node Embeddings, Random Walk, Node2vec
 
-[Graph Neural Networks: A review of Methods and Applications, Zhou, 2018.
-Graph Representation Learning, Hamilton, 2020. ](https://arxiv.org/abs/1812.08434)
+Hands-on: Node2Vec (optional)
 
-[Graph Representation Learning, Ch. 4 Graph Neural Network Model](
-https://cs.mcgill.ca/~wlh/comp766/files/chapter4_draft_mar29.pdf)
+Lab: Hands-on GCN
+
+Lab: Node Classification
+
+---
+
+### Week 9: Deep Graph Learning, GraphSage, Applications
+
+8. Graph Neural Network Intro
+Slides 1-16.
+
+Workshop 5 - Graph Neural Network
+8. Graph Neural Networks
+
+Lab 5. Graph Level Prediction
 
 ---
 
