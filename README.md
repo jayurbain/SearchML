@@ -199,11 +199,13 @@ See graph references above.
 
 ### Week 7: Link Analysis
 
+RAG Lab Review
+
 [Link Analysis](https://docs.google.com/presentation/d/14Kfi4hHJnjHTrreEo8UoiEsssFQi6w6WskxjwJNvzq8/edit?usp=sharing)
 
 [Lab Link Analysis](labs/Lab%202.%20Link%20Analysis.pdf)
 
-[Lab Page Rank Notebook](PageRank.ipynb) 
+[Lab Page Rank Notebook](labs/PageRank.ipynb) 
 
 
 Reading:
