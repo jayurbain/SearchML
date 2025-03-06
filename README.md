@@ -207,6 +207,7 @@ RAG Lab Review
 
 [Lab Page Rank Notebook](labs/PageRank.ipynb) 
 
+[Message Passing and Representations](https://docs.google.com/presentation/d/1ZEbDkmSfwZq3qs7damgC4Z8oUChKSNq9h76wCSxB7fI/edit?usp=sharing)
 
 Reading:
 
