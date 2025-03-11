@@ -217,17 +217,17 @@ Authoritative Sources in a Hyperlinked Environment
 
 ---
 
-### Week 8:  Node Classification, Intro to Graph Neural Networks
+### Week 8:  Graph Neural Networks
 
-Message Passing, Node Embeddings, and Representations
+[Node Embeddings, DeepWalk, Node2Vec](https://docs.google.com/presentation/d/110t10GtYP26WkU4xV3lwsZ0N1gyl45uInlJ9ADotmzE/edit?usp=sharing)
 
-Node Embeddings, Random Walk, Node2vec
+[Graph Neural Networks](https://docs.google.com/presentation/d/1EC7-okKsZnDIygkVBlar7udeehdmklrOIim7oObVaYI/edit?usp=sharing)
 
-Hands-on: Node2Vec (optional)
+[Hands-on: Node2Vec](labs/Node2Vec.ipynb) 
 
-Lab: Hands-on GCN
+[Lab: Hands-on GCN](labs/lab3_handson_gcn.ipynb)
 
-Lab: Node Classification
+[Lab: Node Classification](labs/lab3_node_class.ipynb)
 
 ---
 
