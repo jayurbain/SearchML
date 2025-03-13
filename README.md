@@ -217,36 +217,36 @@ Authoritative Sources in a Hyperlinked Environment
 
 ---
 
-### Week 8:  Graph Neural Networks
+### Week 8:  Node2Vec, Graph Neural Networks
 
 [Node Embeddings, DeepWalk, Node2Vec](https://docs.google.com/presentation/d/110t10GtYP26WkU4xV3lwsZ0N1gyl45uInlJ9ADotmzE/edit?usp=sharing)
 
-[Graph Neural Networks](https://docs.google.com/presentation/d/1EC7-okKsZnDIygkVBlar7udeehdmklrOIim7oObVaYI/edit?usp=sharing)
-
+Notebook:  
 [Hands-on: Node2Vec](labs/Node2Vec.ipynb) 
 
-[Lab: Hands-on GCN](labs/lab3_handson_gcn.ipynb)
+[Graph Neural Networks](https://docs.google.com/presentation/d/1EC7-okKsZnDIygkVBlar7udeehdmklrOIim7oObVaYI/edit?usp=sharing)
 
-[Lab: Node Classification](labs/lab3_node_class.ipynb)
+Notebooks:   
+[Hands-on GCN](labs/lab3_handson_gcn.ipynb)
+[Node Classification](labs/lab3_node_class.ipynb)
+[Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb)
 
 ---
 
-### Week 9: Deep Graph Learning, GraphSage, Applications
+### Week 9: GraphSage, Applications
 
-8. Graph Neural Network Intro
-Slides 1-16.
+[Graph Neural Networks](https://docs.google.com/presentation/d/1EC7-okKsZnDIygkVBlar7udeehdmklrOIim7oObVaYI/edit?usp=sharing)
 
-Workshop 5 - Graph Neural Network
-8. Graph Neural Networks
-
-Lab 5. Graph Level Prediction
+Notebooks:   
+[Node Classification](labs/lab3_node_class.ipynb)
+[Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb)
 
 ---
 
 ### Week 10: Deep Generative Graph Models
 
-Workshop 5 - Deep Generative Graph Models,  illustrative notebook   
-[14. Learning Deep Generative Models of Graphs.pdf](slides/14.%20Learning%20Deep%20Generative%20Models%20of%20Graphs.pdf)   
+Deep Generative Graph Models,  illustrative notebook   
+[Learning Deep Generative Models of Graphs.pdf](slides/14.%20Learning%20Deep%20Generative%20Models%20of%20Graphs.pdf)   
 - [Deep Generative Graph Learning Notebook](labs/deep_graph_generative.ipynb)   
 - [Model file](labs/model.pth)
 
