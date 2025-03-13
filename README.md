@@ -228,8 +228,6 @@ Notebook:
 
 Notebooks:   
 [Hands-on GCN](labs/lab3_handson_gcn.ipynb)
-[Node Classification](labs/lab3_node_class.ipynb)
-[Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb)
 
 ---
 
@@ -238,7 +236,7 @@ Notebooks:
 [Graph Neural Networks](https://docs.google.com/presentation/d/1EC7-okKsZnDIygkVBlar7udeehdmklrOIim7oObVaYI/edit?usp=sharing)
 
 Notebooks:   
-[Node Classification](labs/lab3_node_class.ipynb)
+[Node Classification](labs/lab3_node_class.ipynb)  
 [Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb)
 
 ---
