@@ -231,13 +231,22 @@ Notebooks:
 
 ---
 
-### Week 9: GraphSage, Applications
+### Week 9: Graph Convolution Networks, GraphSage
 
-[Graph Neural Networks](https://docs.google.com/presentation/d/1EC7-okKsZnDIygkVBlar7udeehdmklrOIim7oObVaYI/edit?usp=sharing)
+[Graph CNN, GraphSage](https://docs.google.com/presentation/d/1NDVedsdYbMsFQcBprrh8dk3_3MM6NgSEW-eQ56xzwkI/edit?usp=sharing)
 
 Notebooks:   
 [Node Classification](labs/lab3_node_class.ipynb)  
+
 [Graph Level Prediction](labs/lab_5_graphneuralnets_esol.ipynb)
+
+[Graph Attention Networks](https://docs.google.com/presentation/d/1C5qbd6ev3Z4iRybvyK8OIPQTxgQzmVfcXZNGEkuFXT8/edit?usp=sharing
+
+[Graph Recommender Systems](https://docs.google.com/presentation/d/1950l6M3aYauDPLWcmdxPd6gHCQasT6mi9tWZJ6YDrsM/edit?usp=sharing)
+
+Notebooks:  
+
+[Amazon Recommender](labs/AMZN_Recommender_Urbain.ipynb)
 
 ---
 
@@ -263,12 +272,42 @@ https://arxiv.org/pdf/1803.03324.pdf
 
 ### Week 11: Knowledge Graphs, RAG Knowledge Graphs
 
-### Week 12: Temporal Search
 
-### Week 13: Project Work
+Free graph database account at Neo4j
 
-### Week 14: Project Work
+OpenAI developer account and key
 
+Lectures
+Knowledge Graphs, Graph ML, and LLMs
+
+Graph Neural Networks
+
+Tasks
+Tasl 1: Creating a Knowledge Graph from Text
+
+Task 2: Creating a Knowledge Graph Embedding)
+
+### Week 11: Multimodal RAG
+
+
+[Multimodal RAG](https://docs.google.com/presentation/d/15PG0IwOVFuEz4EjissFCSQc8YXT9gHE9-7h7MoHg6iI/edit?usp=sharing)
+
+Notebooks:
+
+[Multimodal RAG](./notebooks/Multimodal_RAG_VoyageAI.ipynb)
+
+### Week 11: Agentic RAG
+
+[Agentic RAG](https://docs.google.com/presentation/d/1tcqH2DkXXc-K8sVpzuTRgSw7ScDcnBRVzvy2i275Jp4/edit?usp=sharing)
+
+Notebooks:
+
+[Basic Workflows](./notebooks/basic_workflows.ipynb)  
+[Orchestrator Workers](./notebooks/orchestrator_workers.ipynb)  
+[Evaluator Optimizer](./notebooks/evaluator_optimizer.ipynb)    
+[util.py](./notebooks/util.py)   
+
+[ReAct](./notebooks/ReAct-Example.ipynb)
 ### Week 15: Final Projects Presentations
 
 Tuesday and Thursday 15-minute boaster session for each project:
