@@ -253,7 +253,10 @@ Notebooks:
 ### Week 10: Deep Generative Graph Models
 
 Deep Generative Graph Models,  illustrative notebook   
-[Learning Deep Generative Models of Graphs](https://drive.google.com/drive/folders/1X_oglSafiBWre2Cz6ovyvFDrpIVvOoaz?ths=true)   
+
+[Generative Models for Graphs](https://docs.google.com/presentation/d/1z7Lwtad0NtIK3EGEVdyLqhsVh4JTOBhlRhTSz_zNw4A/edit?usp=sharing)     
+
+Notebook:   
 - [Deep Generative Graph Learning Notebook](./labs/deep_graph_generative.ipynb)   
 - [Model file](./labs/model.pth)
 - [Animation GIF](./labs/48313438-78baf000-e5f7-11e8-931e-cd00ab34fa50.gif)
@@ -271,8 +274,10 @@ https://arxiv.org/abs/1802.08773
 https://arxiv.org/pdf/1803.03324.pdf   
 - [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
-### Week 11: Knowledge Graphs, RAG Knowledge Graphs
+### Week 11: Graph Machine Learning Quiz, Knowledge Graphs, RAG Knowledge Graphs
 
+
+Graph Machine Learning Quiz
 
 Free graph database account at Neo4j
 
