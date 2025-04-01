@@ -253,9 +253,10 @@ Notebooks:
 ### Week 10: Deep Generative Graph Models
 
 Deep Generative Graph Models,  illustrative notebook   
-[Learning Deep Generative Models of Graphs.pdf](slides/14.%20Learning%20Deep%20Generative%20Models%20of%20Graphs.pdf)   
-- [Deep Generative Graph Learning Notebook](labs/deep_graph_generative.ipynb)   
-- [Model file](labs/model.pth)
+[Learning Deep Generative Models of Graphs](https://drive.google.com/drive/folders/1X_oglSafiBWre2Cz6ovyvFDrpIVvOoaz?ths=true)   
+- [Deep Generative Graph Learning Notebook](./labs/deep_graph_generative.ipynb)   
+- [Model file](./labs/model.pth)
+- [Animation GIF](./labs/48313438-78baf000-e5f7-11e8-931e-cd00ab34fa50.gif)
 
 [15. Temporal Graph Networks](slides/15.%20Temporal%20Graph%20Neural%20Networks.pdf) 
 
