@@ -261,9 +261,9 @@ Notebook:
 - [Model file](./labs/model.pth)
 - [Animation GIF](./labs/48313438-78baf000-e5f7-11e8-931e-cd00ab34fa50.gif)
 
-[15. Temporal Graph Networks](slides/15.%20Temporal%20Graph%20Neural%20Networks.pdf) 
+[Temporal Graph Networks](https://docs.google.com/presentation/d/1Wvi37x7OtedLAsNYUkb7XsEuU6dDnQOyWovQjPytbLk/edit?usp=sharing) 
 
-[Optional Traffice Notebook!](labs/traffic_prediction.ipynb) 
+[Traffic Notebook - Temporal GCN](labs/traffic_prediction.ipynb) 
 
 
 References:      
@@ -277,7 +277,7 @@ https://arxiv.org/pdf/1803.03324.pdf
 ### Week 11: Graph Machine Learning Quiz, Knowledge Graphs, RAG Knowledge Graphs
 
 
-Graph Machine Learning Quiz
+[Graph Machine Learning Quiz]()
 
 Free graph database account at Neo4j
 
