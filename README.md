@@ -276,8 +276,7 @@ https://arxiv.org/pdf/1803.03324.pdf
 
 ### Week 11: Graph Machine Learning Quiz, Knowledge Graphs, RAG Knowledge Graphs
 
-
-[Graph Machine Learning Quiz]()
+[Graph Machine Learning Quiz](https://docs.google.com/document/d/1-q7OfqqcLomK1be7yrurZ4Lcn7OxuW89_SisT95AeBo/edit?usp=sharing)
 
 Free graph database account at Neo4j
 
