@@ -274,55 +274,52 @@ https://arxiv.org/abs/1802.08773
 https://arxiv.org/pdf/1803.03324.pdf   
 - [AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
 
-### Week 11: Graph Machine Learning Quiz, Knowledge Graphs, RAG Knowledge Graphs
+### Week 11: Graph Machine Learning Quiz, Final Projects
 
 [Graph Machine Learning Quiz](https://docs.google.com/document/d/1-q7OfqqcLomK1be7yrurZ4Lcn7OxuW89_SisT95AeBo/edit?usp=sharing)
 
-Free graph database account at Neo4j
-
-OpenAI developer account and key
-
-Lectures
-Knowledge Graphs, Graph ML, and LLMs
-
-Graph Neural Networks
-
-Tasks
-Tasl 1: Creating a Knowledge Graph from Text
-
-Task 2: Creating a Knowledge Graph Embedding)
-
-### Week 11: Multimodal RAG
+[Final Project Proposal](https://docs.google.com/document/d/1lrhR7Ahy4HY4h6I5NTsvwiK-2-0OHi51_VXi3Ahs4rw/edit?usp=sharing)
 
 
-[Multimodal RAG](https://docs.google.com/presentation/d/15PG0IwOVFuEz4EjissFCSQc8YXT9gHE9-7h7MoHg6iI/edit?usp=sharing)
+### Week 12: Knowledge Graphs, RAG Knowledge Graphs
 
-Notebooks:
-
-[Multimodal RAG](./notebooks/Multimodal_RAG_VoyageAI.ipynb)
-
-### Week 11: Agentic RAG
-
-[Agentic RAG](https://docs.google.com/presentation/d/1tcqH2DkXXc-K8sVpzuTRgSw7ScDcnBRVzvy2i275Jp4/edit?usp=sharing)
-
-Notebooks:
-
-[Basic Workflows](./notebooks/basic_workflows.ipynb)  
-[Orchestrator Workers](./notebooks/orchestrator_workers.ipynb)  
-[Evaluator Optimizer](./notebooks/evaluator_optimizer.ipynb)    
-[util.py](./notebooks/util.py)   
-
-[ReAct](./notebooks/ReAct-Example.ipynb)
-### Week 15: Final Projects Presentations
-
-Tuesday and Thursday 15-minute boaster session for each project:
+[Final Project Proposal Presentation](https://docs.google.com/document/d/1lrhR7Ahy4HY4h6I5NTsvwiK-2-0OHi51_VXi3Ahs4rw/edit?usp=sharing)
+Tuesday and Thursday 15-20 minute boaster session for each project:
 - What is your project?
 - What problem does it solve?
 - Why were you interested in this project?
+- Brief explanation of tools and resources needed for your project  
+- Brief explanation of your design and functionality.
+- Exemplar projects
+
+[Knowledge Graphs, Graph ML, and LLMs](https://docs.google.com/presentation/d/1CmzOCP6nFoDuHUpELfPXmqFqzAGNWugrinsOD-ueVl0/edit?usp=sharing)
+
+Notebooks:   
+
+[Creating a Knowledge Graph from Text]
+
+[Creating a Knowledge Graph Embedding]
+
+### Week 13: Multimodal RAG, Agentic RAG
+
+[Multimodal RAG](https://docs.google.com/presentation/d/15PG0IwOVFuEz4EjissFCSQc8YXT9gHE9-7h7MoHg6iI/edit?usp=sharing)
+
+[Agentic RAG](https://docs.google.com/presentation/d/1tcqH2DkXXc-K8sVpzuTRgSw7ScDcnBRVzvy2i275Jp4/edit?usp=sharing)
+
+### Week 14: Advanced Topic or Project Work
+
+### Week 15: Final Project Presentations
+
+Tuesday and Thursday 15-20 minute boaster session for each project:
+- What is your project?
+- What problem does it solve?
+- Why were you interested in this project?
+- Brief explanation of tools and resources needed for your project   
+- Exemplar projects
 - Brief explanation of your design and functionality.
 - Status and lessons learned
 
-[Final Project](https://docs.google.com/document/d/1X6aJZ8jhi3XlAsKcghK0CWbOqylcsl4r9vFMff2SkD0/edit?usp=sharing)    
+[Final Project Proposal](https://docs.google.com/document/d/1lrhR7Ahy4HY4h6I5NTsvwiK-2-0OHi51_VXi3Ahs4rw/edit?usp=sharing)
 
 
 ---
