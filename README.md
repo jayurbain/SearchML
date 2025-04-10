@@ -283,7 +283,7 @@ https://arxiv.org/pdf/1803.03324.pdf
 
 ### Week 12: Knowledge Graphs, RAG Knowledge Graphs
 
-[Final Project Proposal Presentation](https://docs.google.com/document/d/1lrhR7Ahy4HY4h6I5NTsvwiK-2-0OHi51_VXi3Ahs4rw/edit?usp=sharing)
+[Final Project Proposal Presentation](https://docs.google.com/document/d/1lrhR7Ahy4HY4h6I5NTsvwiK-2-0OHi51_VXi3Ahs4rw/edit?usp=sharing)    
 Tuesday and Thursday 15-20 minute boaster session for each project:
 - What is your project?
 - What problem does it solve?
