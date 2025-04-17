@@ -298,8 +298,7 @@ Instructions: [Lab: Constructing Knowledge Graph with LLM Extraordinaire](https:
 
 Notebook: [Constructing a Knowledge Graph](./labs/constructing_knowledge_graph.ipynb)
 
-
-[Creating a Knowledge Graph Embedding]
+Notebook: [Creating a Knowledge Graph Embedding](labs/pykeen_knowledge_graph_embedding.ipynb)
 
 ### Week 13: Multimodal RAG, Agentic RAG
 
