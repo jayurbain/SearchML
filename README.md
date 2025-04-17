@@ -292,11 +292,12 @@ Tuesday and Thursday 15-20 minute boaster session for each project:
 - Brief explanation of your design and functionality.
 - Exemplar projects
 
-[Knowledge Graphs, Graph ML, and LLMs](https://docs.google.com/presentation/d/1CmzOCP6nFoDuHUpELfPXmqFqzAGNWugrinsOD-ueVl0/edit?usp=sharing)
+Slides: [Knowledge Graphs, Graph ML, and LLMs](https://docs.google.com/presentation/d/1CmzOCP6nFoDuHUpELfPXmqFqzAGNWugrinsOD-ueVl0/edit?usp=sharing)
 
-Notebooks:   
+Instructions: [Lab: Constructing Knowledge Graph with LLM Extraordinaire](https://docs.google.com/document/d/13xrIFY1JaBc-mzMBmLSFYqTX6EsSM6Msa-EpELWZN78/edit?usp=sharing)
 
-[Creating a Knowledge Graph from Text]
+Notebook: [Constructing a Knowledge Graph](./labs/constructing_knowledge_graph.ipynb)
+
 
 [Creating a Knowledge Graph Embedding]
 
