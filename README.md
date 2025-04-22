@@ -304,9 +304,19 @@ Notebook: [Creating a Knowledge Graph Embedding](labs/pykeen_knowledge_graph_emb
 
 [Multimodal RAG](https://docs.google.com/presentation/d/15PG0IwOVFuEz4EjissFCSQc8YXT9gHE9-7h7MoHg6iI/edit?usp=sharing)
 
+Notebook: [Multimodal Retrieval Augmented Generation](labs/Multimodal_RAG_VoyageAI.ipynb)
+
+
 [Agentic RAG](https://docs.google.com/presentation/d/1tcqH2DkXXc-K8sVpzuTRgSw7ScDcnBRVzvy2i275Jp4/edit?usp=sharing)
 
+Notebook: [Build LLM Agent combining Reasoning and Action](./labs/ReAct-Example.ipynb)
+
+
 ### Week 14: Advanced Topic or Project Work
+
+LLM Knowledge Graph RAG Application
+
+Project work
 
 ### Week 15: Final Project Presentations
 
