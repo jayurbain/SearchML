@@ -309,8 +309,14 @@ Notebook: [Multimodal Retrieval Augmented Generation](labs/Multimodal_RAG_Voyage
 
 [Agentic RAG](https://docs.google.com/presentation/d/1tcqH2DkXXc-K8sVpzuTRgSw7ScDcnBRVzvy2i275Jp4/edit?usp=sharing)
 
-Notebook: [Build LLM Agent combining Reasoning and Action](./labs/ReAct-Example.ipynb)
+Notebooks:  
+Workflow (optional) -    
+[Basic Workflows](labs/basic_workflows.ipynb)    
+[Orchestrator Workers](labs/orchestrator_workers.ipynb)     
+[Evaluator Optimizer](labs/evaluator_optimizer.ipynb)     
 
+Agentic (required) -     
+[Build LLM Agent combining Reasoning and Action](labs/ReAct_Example.ipynb)
 
 ### Week 14: Advanced Topic or Project Work
 
