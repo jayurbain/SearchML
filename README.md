@@ -320,7 +320,10 @@ Agentic (required) -
 
 ### Week 14: Advanced Topic or Project Work
 
-LLM Knowledge Graph RAG Application
+[LLM Knowledge Graph RAG Application](labs/devops_rag.ipynb)
+
+[Course Recap](https://docs.google.com/presentation/d/1Q-b32PEmJntnuSn-zcDaKGk53x7gSBeKIE9aanjYWx0/edit?usp=sharing)   
+
 
 Project work
 
